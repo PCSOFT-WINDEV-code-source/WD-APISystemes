@@ -1,0 +1,104 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD APISystemes
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD APISystemes
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD APISystemes
+    internal_properties : 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
+    configuration_id : 3570218511703052337
+    type : 1
+    generation_name : WD APISystemes.exe
+    version :
+     version : VI200030B
+     autoincrement_version : false
+    icon_filename : .\VST18148c-32-5.ico
+    language : 1
+ elements :
+  identifier : 0x4ac602bf0017a3d3
+  elements :
+   -
+     name : FEN_MèreMDI
+     identifier : 0x4289b12c000159eb
+     internal_properties : CAAAAAgAAAA4FmC8izB4o6wAZoi72xb57K8740Ay7dVLqWSs1Fy4YJyyZC37DZ3bCTOtC4tFPbMdJQ==
+     physical_name : .\FEN_MereMDI.wdw
+     type : 2
+   -
+     name : FEN_Aide
+     identifier : 0x428a08f5000342c5
+     internal_properties : CAAAAAgAAADqYNI29bL6JSKC5AoFL6xTHi1VvfA8ZOiOt3qOioiUbJS+VK15jxtZi7UviQnHsyXvdw==
+     physical_name : .\FEN_Aide.wdw
+     type : 2
+   -
+     name : TEST_Principale
+     identifier : 0x472f416200032835
+     internal_properties : CAAAAAgAAADYtoCcK1DYg0zgRmjbzgKd8IG/V2r8EnB36j2T9StpR/ERIVDbbf27KRONayulXVO9RQ==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FEN_Fille
+     identifier : 0x4289b138000288db
+     internal_properties : CAAAAAgAAACoppCMO2BIUxzwVpirf/aRzO+LkyB6hoRTe1CAkICUtFiGkOFL/Y3LOePd21uVbWOttQ==
+     physical_name : .\FEN_Fille.wdw
+     type : 2
+   -
+     name : FEN_Principale
+     identifier : 0x4288525500008a11
+     internal_properties : CAAAAAgAAACzj+s/DHkxanUZC7GcidmI01YCGrlr8XW28bZcLPYcPMBsiPkiJrTwEgz2wkK+ui6Wng==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : Système
+     identifier : 0x42884f8e0000b2eb
+     internal_properties : CAAAAAgAAABaMAIGpeLK1ZJy1Bo182wrfn01vQDKVp524Y+AZoyAUOASIGHJfwtJu2VfWdkX49U/xw==
+     physical_name : .\Systeme.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD APISystemes
+     identifier : 0x4ac602bf0020a450
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

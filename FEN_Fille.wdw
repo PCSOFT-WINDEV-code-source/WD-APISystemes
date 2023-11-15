@@ -1,0 +1,92 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Fille
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Fille
+ identifier : 0x249963d61724938e
+ internal_properties : CAAAAAgAAAB4GCxO21y31OyEgWEeeAWlJ0dOJMtV+yapmc4uUzPzZKbKO6duCLTu2w4iJJU4uBjNKY08MsqL0tgepU/xk7/DR23JQu5JaEZbarGU9vKzX7Zi1YE69a1GoQSYvq2VG52NNvBN4mF2xBTBtk/dw9ZB55wwGzy4+uWfOJxd0/kpfRxnF1SaASzK+MZ99wcRr0jEO3+FsTIgTkavUOsD0XMSLs7iL3Y74mTG3zUD/kE/ICJgq3VeF/MoZci+xEeN9rgaE1nK5mQeSXRp5lweNpxAkx5mozt6QBjm9oTjmIppkSohTXzBTgbJVTvyr9qcs/G6+uSV/tLkWVSQYCUTCGFCAZ1WMgw2Uz5iBoKukiilEiH+GZnNlWvQWoKJf9y9BpMOUImyZTrWeajHZpasVKxKOP+qGeh9Nxo4oX9oDFhmazRFBxG2s8CKOe0BG39uASqMjw/AkLCdeLMtZFy/OAn4QaRMg+4aIdBF+eQaCX3WoQHQ5BbJgj6KebbT6MsD8KepXtjbqiV5vsShlFlvBHrxIvQFC/h/DN1fITFiWbnYP8WZr47hnzm8x8uheFCNDi0bv0MXmbTHdVSWyo9iBfFs7GPH592SSD5c6nXI71MGUdBrgbT/qNi2I0QdGI33rUV0CJc1hqkNLcxmlhkI1i3iyqkILVD5S0XWEi/on4Jz13WhYWxF5sIOsaCXVTM/2VA29+ttbAD+fKj5rGV6kR17mrt6fn7QZerMSG4Q7z4YC7cSZnEt8hPqw+959ILRdrAQWgzm5q/njWSFRRpIF2i7H+9u/j1J+KmJAVQxo+3mGNJx+Q==
+ properties :
+  width : 503
+  height : 195
+  widthClient : 487
+  heightClient : 156
+ controls :
+  -
+    name : LIB_TITRE
+    identifier : 0x249963d61726939e
+    internal_properties : CAAAAAgAAAAqJhvvU1AyxrjOh3nqf4N5lx2lrvZptmBqRZMD8HWD4c8XJqfhcGkuTtD1f2Uajpc2fDnM44FWy8VCa8o2U/q6pW5odxoxpWKost875hA0xvlARhIk1AXAfyXY6j2JAbcmXENDLo3UfwC6+k04ZwoEKizIZ/kJ3DMylwUSyLdT73HRTrNSfB4k4pmrfdQch4QQAoiQ+VYaXwUjDkDx7xPvMMeZk+u6ziQReBZPiBg6gWULOIwVD9V/HNzRgq7GXvN6kt/gyqHjWKtwi77yL2BNvHBXAMpc/R2niUSqzdDOChwAklsmBAZaVe9rsm4aVbr8xiin24iL3Nb2VggMO8zkFa2QzXG+lEpoPpikna7zmmoQDYrJi5QBldjwbGZ3e4Y/pOAAmPU1uuJ/WuobGlTlhTWy8sQYL7jNZhd9S+xqbQmayJ3uTTn6gyjjHMfmttemWCoMp/d79oXRQRCfwIIPuwj1e76gEVfRpA9n/m705fwNZiCoNS2SYcM3CgAC46dRZLdPUvKjaIEpGIeGSqTf5nBhNABeqQ==
+    properties :
+     x : 3
+     y : 6
+     width : 482
+     height : 19
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DETAILS
+    identifier : 0x249963d61727939e
+    internal_properties : CAAAAAgAAADhQmUQs3ngZOWw/4/iizD7kBrzIz1ZRWINXl8bfqq57TZ7UUkmQYrP1CMwBZGoEkK0ObdF39ADladE/nU1H6YGiTWt6EklCpvYnHn1Y44pFCLu2cNM41B/bx/dPcozctK1j7edxJawVp/yANCPGyZ+D/zc7WPIlmjDDPsEUBat62jWzuvMDg1dIPR28P/lkRk1xThCnB/GOyb+ANwS25hS/WhhABbs8nF4VeD6ovRR8rl7qYiQKE+Eh/pZkPtmCXOszJpR7+kdNXkOGHgoeym+RER77eGNCj70hjLYD39jMW/4yGg08nUlKg/xwbwyXYQexehh213xsOP+DOd6e/SfpWdMBevM5/16mTxde0LNSfXtzD3WJnYt98gz6OC935dna20BY5Q3Y/H1u2StnmGcw+pKwZw7EnPhTBuE23+w2W4+viaehSaP5Yc43+qAtqbVo8svh0eEZpSblFrs+2coQQjVocRzViyCQL3HrRTb1hJOQdbunAE10inRd9jI1TxquDbznDmgeT+cRGyPBBi6QbJZG2Nw8wOXvKDDiB4EhC4P463Lqv/hZ5YGpg9xG3NnJ8dH2pnLTV8RhH5nlOVUlt8CY3lnwHplzytEhV4dh0yzxX4Ciabxlxocob+sF8EWOxgddtMlxXdzrT9pT2U/gpxfu5nRsgu0wzS1Hkdup7EiyPZIeHkCoGwurjwj+KhcoM/P53uYLtuVMQQpSlWEddSrVq8FOx2ZMNDgw/IUW+Y7ZxRDtRkiyfGmHZEK0rJC1Bv0YOyJyGbwCVUNGo9szo96NFqa1w3hCe0s9u88ZbRRWoP9CYSVWttfQdpBqCoN1I1PV9c4BIDJEwlSNQ==
+    properties :
+     x : 6
+     y : 31
+     width : 475
+     height : 97
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x249963d61728939e
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACBOXnY/4xwTTkwTA7Y+W2oihQi3j+IczRKsVQzQ1eNlyIrvzgqEwc42oVkPd6ETXegXbSqfki2UQ6fNwUGUN6uRwphQi+UBgAZBE9+KY6t8QVVECLX4BHo0I2/4RG0
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADoX9MLfGfWKwayS7h3VU0IxYS1fW9zlSB2kZU1q9ocHwiflE/MXMw7jrvAUMb9rvXxetcSO4tMZt/hlnkyfCGjngzjkA==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      // Grise les icônes systèmes
+      CacheIconeSystemeFilleMDI(handle(moimeme))
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : fenfille
+resources :
+ string_res :
+  identifier : 0x10f6d0eb015e4825
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Fille.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
